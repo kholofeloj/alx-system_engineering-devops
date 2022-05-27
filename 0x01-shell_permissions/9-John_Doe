@@ -1,2 +1,2 @@
 #!/bin/bash
-case hello
+chmod u+rwx g+rx o+wx hello
